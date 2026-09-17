@@ -1,0 +1,4 @@
+{
+  "hosting": {"public":"public","ignore":["firebase.json","**/.*","**/node_modules/**"],"rewrites":[{"source":"/api/**","function":"calendarApi"},{"source":"/auth/**","function":"calendarApi"},{"source":"/oauth2callback","function":"calendarApi"},{"source":"**","destination":"/index.html"}]},
+  "functions": {"runtime":"nodejs20"}
+}

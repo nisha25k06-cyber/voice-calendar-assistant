@@ -1,0 +1,3 @@
+{
+  "expo": {"name":"Orbit Calendar","slug":"orbit-calendar","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"dark","splash":{"backgroundColor":"#0d1324"},"ios":{"supportsTablet":true},"android":{"adaptiveIcon":{"backgroundColor":"#0d1324"}},"extra":{"apiUrl":"http://localhost:3000"}}
+}
